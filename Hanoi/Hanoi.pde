@@ -3,7 +3,7 @@ import java.util.Stack;
 Stack<disco> pilha = new Stack<disco>();
 palito[] pau = new palito[3];
 
-int maxi = 3;
+int maxi = 8;
 int[] click = new int[2];
 boolean gg;
 
